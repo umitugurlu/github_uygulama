@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    sayi += 4
+    sayi += 5
     basic.showNumber(sayi)
 })
 let sayi = 0
